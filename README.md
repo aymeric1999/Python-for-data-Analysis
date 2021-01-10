@@ -14,6 +14,8 @@ Ce que je conclus de ce projet:
 -
 -La Visualisation m'a permis de mieux comprendre mon dataset.
 
--je dirai qu'il est diffficile de prévoir l'impact qu'aura les différentes variables sur les prédictions et les modèles.
+-je dirai qu'il est diffficile de prévoir l'impact qu'aura les différentes variables sur les prédictions et les modèles sans visualisation.
 
 -L'API Flask a été très instructive j'ai trouvé cela sympathique à faire !
+
+
